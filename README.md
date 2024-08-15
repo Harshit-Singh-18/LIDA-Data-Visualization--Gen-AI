@@ -12,19 +12,6 @@ This project involves engineering a chatbot using Generative AI models and LIDA 
 - **Enhanced Data Insights:** Administered RAG for improved data analysis and insights.
 - **Speech-to-Text:** Implemented OpenAI’s Whisper for advanced speech-to-text functionality.
 
-## Installation
-
-To set up this project, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repo
-    ```
-
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
